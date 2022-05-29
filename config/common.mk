@@ -66,9 +66,9 @@ PRODUCT_COPY_FILES += \
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
     persist.wm.enable_remote_keyguard_animation=0
 
-# Log privapp-permissions whitelist violations
+# Enforce privapp-permissions whitelist
 PRODUCT_SYSTEM_DEFAULT_PROPERTIES += \
-    ro.control_privapp_permissions=log
+    ro.control_privapp_permissions=enforce
 
 # Quick Tap
 ifeq ($(TARGET_SUPPORTS_QUICK_TAP), true)
