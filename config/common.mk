@@ -105,7 +105,7 @@ PRODUCT_MINIMIZE_JAVA_DEBUG_INFO := true
 PRODUCT_RESTRICT_VENDOR_FILES := false
 
 # Blur properties
-TARGET_USES_BLUR ?= false
+TARGET_USES_BLUR ?= true
 ifeq ($(TARGET_USES_BLUR), true)
 PRODUCT_PACKAGES += \
     AndroidSystemBlur
