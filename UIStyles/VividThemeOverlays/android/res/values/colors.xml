@@ -16,6 +16,48 @@
   -->
 
 <resources>
+    <color name="system_accent1_0">#ffffff</color>
+    <color name="system_accent1_10">#f5faff</color>
+    <color name="system_accent1_50">#ebf7fc</color>
+    <color name="system_accent1_100">#e6f5ff</color>
+    <color name="system_accent1_200">#aee2fc</color>
+    <color name="system_accent1_300">#aadefa</color>
+    <color name="system_accent1_400">#6ed2fa</color>
+    <color name="system_accent1_500">#4cc8f5</color>
+    <color name="system_accent1_600">#37c5fa</color>
+    <color name="system_accent1_700">#035f82</color>
+    <color name="system_accent1_800">#179ed1</color>
+    <color name="system_accent1_900">#0075a1</color>
+    <color name="system_accent1_1000">#141414</color>
+
+    <color name="system_accent2_0">#ffffff</color>
+    <color name="system_accent2_10">#f5faff</color>
+    <color name="system_accent2_50">#d5dfe6</color>
+    <color name="system_accent2_100">#dae6f0</color>
+    <color name="system_accent2_200">#c3d3e0</color>
+    <color name="system_accent2_300">#a1b8c9</color>
+    <color name="system_accent2_400">#89aec4</color>
+    <color name="system_accent2_500">#76a7c4</color>
+    <color name="system_accent2_600">#6656a6</color>
+    <color name="system_accent2_700">#3d6782</color>
+    <color name="system_accent2_800">#246080</color>
+    <color name="system_accent2_900">#0c4f6e</color>
+    <color name="system_accent2_1000">#242323</color>
+
+    <color name="system_accent3_0">#ffffff</color>
+    <color name="system_accent3_10">#FFFBFF</color>
+    <color name="system_accent3_50">#f2edf7</color>
+    <color name="system_accent3_100">#E6DEFF</color>
+    <color name="system_accent3_200">#e8e4f7</color>
+    <color name="system_accent3_300">#aba6bf</color>
+    <color name="system_accent3_400">#857da8</color>
+    <color name="system_accent3_500">#6c6491</color>
+    <color name="system_accent3_600">#554e78</color>
+    <color name="system_accent3_700">#484264</color>
+    <color name="system_accent3_800">#2b244a</color>
+    <color name="system_accent3_900">#150f2e</color>
+    <color name="system_accent3_1000">#201f21</color>
+
     <color name="system_neutral1_0">#FFFFFF</color>
     <color name="system_neutral1_10">#FFFFFF</color>
     <color name="system_neutral1_50">@android:color/system_accent1_50</color>
@@ -23,8 +65,8 @@
     <color name="system_neutral1_200">@android:color/system_accent1_200</color>
     <color name="system_neutral1_300">@android:color/system_accent1_300</color>
     <color name="system_neutral1_400">@android:color/system_accent1_400</color>
-    <color name="system_neutral1_500">@android:color/system_neutral2_500</color>
-    <color name="system_neutral1_600">@android:color/system_neutral2_600</color>
+    <color name="system_neutral1_500">@android:color/system_accent1_500</color>
+    <color name="system_neutral1_600">@android:color/system_accent1_600</color>
     <color name="system_neutral1_700">@android:color/system_neutral2_700</color>
     <color name="system_neutral1_800">@android:color/system_neutral2_800</color>
     <color name="system_neutral1_900">#000000</color>
